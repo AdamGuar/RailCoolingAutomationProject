@@ -1,0 +1,26 @@
+ 0.23000	  		carb
+ 1.52000	  		mang
+ 0.98000	  		sili
+ 0.01000	  		phos
+ 1.14000	  		sulp
+ 1.51000	  		chro
+ 0.07000	  		nick
+ 0.14000	  		moli
+ 0.00000	  		vana
+ 0.01000	  		copp
+ 0.02300	  		alum
+ 0.00900	  		nitr
+ 0.00000	  		niob
+ 0.00000	  		tita
+
+  820.0000	     poczatkowa temperatura
+    0.2000	krok czasowy
+    1.0000	weight 1. ---> 1. 0.5 --> 0.99  0. ----> 0.98
+    0.0010  	dokladnosc optymalizacji (blad)
+    0.0500  	krok dla temperatury
+ 4.3200000	    c-gamma-alfa_1 (wyraz wolny)
+-0.0050760	    c-gamma-alfa_2 (nachylenie)
+ 0.0349000	    c-alfa_1       (wyraz wolny)
+-0.0000403	    c-alfa_2       (nachylenie)
+-1.8585000	    c-gamma-beta_1 (wyraz wolny)
+ 0.0031217	    c-gamma-beta_2 (nachylenie)

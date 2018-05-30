@@ -9,7 +9,7 @@ using Optimalization.Configuration;
 
 namespace Optimalization.Logger
 {
-    class Logger
+    public class Logger
     {
 
         public static void logLine(string Line,bool AppendToFile)

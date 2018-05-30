@@ -1,0 +1,56 @@
+** 
+** MATERIALS
+** 
+*Material, name=Stal
+*Conductivity
+58.,
+*Density
+7800.,
+*Specific Heat
+460.,
+** 
+** PHYSICAL CONSTANTS
+** 
+*Physical Constants, absolute zero=-273., stefan boltzmann=5.67e-08
+** 
+** PREDEFINED FIELDS
+** 
+** Name: Predefined Temperature   Type: Temperature
+*Initial Conditions, type=TEMPERATURE
+Szyna2D-1.cala, 820.
+** ----------------------------------------------------------------
+** 
+** STEP: Chlodzenie
+** 
+*Step, name=Chlodzenie, nlgeom=NO, inc=10000
+Cooling
+*Heat Transfer, end=PERIOD, deltmx=1e+06
+0.01, 1200., 0.003, 1., 
+** 
+** INTERACTIONS
+** 
+** Interaction: Chlodzenie glowki
+*Sfilm, film amplitude="K= 800"
+Szyna2D-1.glowka, F, 20., 1.
+** Interaction: Chlodzenie w powietrzu
+*Sfilm
+Szyna2D-1.stopka, F, 20., 10.
+** Interaction: Radiacja
+*Sradiate
+Calosc, R, 20., 0.5
+** 
+** OUTPUT REQUESTS
+** 
+*Restart, write, frequency=0
+** 
+** FIELD OUTPUT: F-Output-1
+** 
+*Output, field
+*Node Output
+NT, RFL
+*Element Output, directions=YES
+HFL, TEMP
+*NODE PRINT, NSET=coolingPoint , FREQUENCY=1
+NT
+*Output, history, frequency=0
+*End Step

@@ -1,0 +1,1067 @@
+30.05.2018 12:44:02: Starting Simulations
+30.05.2018 12:44:02: Calculating amplitude
+30.05.2018 12:44:02: End of amplitude calculation
+30.05.2018 12:44:02: Creating INP File named: eval.inp
+30.05.2018 12:44:02: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 12:44:02: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 12:45:54: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 12:45:54: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 12:45:55: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 12:45:56: Creating data for Trans E from csv
+30.05.2018 12:45:56: Creating data for Trans E from csv is DONE
+30.05.2018 12:45:56: Creating TRANSE dat file
+30.05.2018 12:45:56: Creating TRANSE dat file is DONE
+30.05.2018 12:45:56: Starting TRANS_E
+30.05.2018 12:45:57: TRANS_E Exited
+30.05.2018 12:45:57: ID: 0 Cooling intervals: 107::: 34::: 75::: 68::: 51Conductivity: 849,288165033463Goal Function: 9,98323786407767
+30.05.2018 12:45:57: Starting Simulations
+30.05.2018 12:45:57: Calculating amplitude
+30.05.2018 12:45:57: End of amplitude calculation
+30.05.2018 12:45:57: Creating INP File named: eval.inp
+30.05.2018 12:45:57: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 12:45:57: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 12:47:29: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 12:47:29: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 12:47:29: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 12:47:29: Creating data for Trans E from csv
+30.05.2018 12:47:29: Creating data for Trans E from csv is DONE
+30.05.2018 12:47:29: Creating TRANSE dat file
+30.05.2018 12:47:29: Creating TRANSE dat file is DONE
+30.05.2018 12:47:29: Starting TRANS_E
+30.05.2018 12:47:29: TRANS_E Exited
+30.05.2018 12:47:29: ID: 1 Cooling intervals: 142::: 13::: 9::: 56::: 26Conductivity: 973,131811466595Goal Function: 9,98323786407767
+30.05.2018 12:47:29: Starting Simulations
+30.05.2018 12:47:29: Calculating amplitude
+30.05.2018 12:47:29: End of amplitude calculation
+30.05.2018 12:47:29: Creating INP File named: eval.inp
+30.05.2018 12:47:29: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 12:47:29: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 12:49:02: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 12:49:02: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 12:49:02: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 12:49:02: Creating data for Trans E from csv
+30.05.2018 12:49:02: Creating data for Trans E from csv is DONE
+30.05.2018 12:49:02: Creating TRANSE dat file
+30.05.2018 12:49:02: Creating TRANSE dat file is DONE
+30.05.2018 12:49:02: Starting TRANS_E
+30.05.2018 12:49:03: TRANS_E Exited
+30.05.2018 12:49:03: ID: 2 Cooling intervals: 163::: 12::: 42::: 57::: 26Conductivity: 575,982795597977Goal Function: 6,0210056980057
+30.05.2018 12:49:03: Starting Simulations
+30.05.2018 12:49:03: Calculating amplitude
+30.05.2018 12:49:03: End of amplitude calculation
+30.05.2018 12:49:03: Creating INP File named: eval.inp
+30.05.2018 12:49:03: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 12:49:03: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 12:50:30: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 12:50:30: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 12:50:30: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 12:50:30: Creating data for Trans E from csv
+30.05.2018 12:50:30: Creating data for Trans E from csv is DONE
+30.05.2018 12:50:30: Creating TRANSE dat file
+30.05.2018 12:50:30: Creating TRANSE dat file is DONE
+30.05.2018 12:50:30: Starting TRANS_E
+30.05.2018 12:50:31: TRANS_E Exited
+30.05.2018 12:50:31: ID: 3 Cooling intervals: 145::: 50::: 14::: 5::: 23Conductivity: 939,765512682388Goal Function: 9,98323786407767
+30.05.2018 12:50:31: Starting Simulations
+30.05.2018 12:50:31: Calculating amplitude
+30.05.2018 12:50:31: End of amplitude calculation
+30.05.2018 12:50:31: Creating INP File named: eval.inp
+30.05.2018 12:50:31: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 12:50:31: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 12:51:58: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 12:51:58: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 12:51:58: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 12:51:58: Creating data for Trans E from csv
+30.05.2018 12:51:58: Creating data for Trans E from csv is DONE
+30.05.2018 12:51:58: Creating TRANSE dat file
+30.05.2018 12:51:58: Creating TRANSE dat file is DONE
+30.05.2018 12:51:58: Starting TRANS_E
+30.05.2018 12:51:59: TRANS_E Exited
+30.05.2018 12:51:59: ID: 4 Cooling intervals: 134::: 67::: 96::: 94::: 44Conductivity: 591,853283388472Goal Function: 6,0210056980057
+30.05.2018 12:51:59: Best solution in this iteration: 
+Cooling intervals(starting with liquid): 134 ; 67 ; 96 ; 94 ; 44 ; 765 ; Liquid K=592
+Fractions: [RetainedAustenite =0,351 ] [Martensite =0,644 ][Ferrite =0,001 ] [Pearlite =0 ] 
+30.05.2018 12:51:59: Optimum cooling desing found: 163,417230622572;11,9277116604744;41,6020946077081;56,7505673462295;25,646915485918;Conductivity: 575,982795597977
+30.05.2018 12:51:59: Next step: 1, evaluations: 5
+30.05.2018 12:51:59: Starting Simulations
+30.05.2018 12:51:59: Calculating amplitude
+30.05.2018 12:51:59: End of amplitude calculation
+30.05.2018 12:51:59: Creating INP File named: eval.inp
+30.05.2018 12:51:59: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 12:51:59: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 12:53:25: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 12:53:25: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 12:53:25: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 12:53:26: Creating data for Trans E from csv
+30.05.2018 12:53:26: Creating data for Trans E from csv is DONE
+30.05.2018 12:53:26: Creating TRANSE dat file
+30.05.2018 12:53:26: Creating TRANSE dat file is DONE
+30.05.2018 12:53:26: Starting TRANS_E
+30.05.2018 12:53:27: TRANS_E Exited
+30.05.2018 12:53:27: ID: 5 Cooling intervals: 154::: 6::: 42::: 64::: 30Conductivity: 812,064737139703Goal Function: 9,98323786407767
+30.05.2018 12:53:27: Starting Simulations
+30.05.2018 12:53:27: Calculating amplitude
+30.05.2018 12:53:27: End of amplitude calculation
+30.05.2018 12:53:27: Creating INP File named: eval.inp
+30.05.2018 12:53:27: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 12:53:27: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 12:54:50: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 12:54:50: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 12:54:50: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 12:54:50: Creating data for Trans E from csv
+30.05.2018 12:54:50: Creating data for Trans E from csv is DONE
+30.05.2018 12:54:50: Creating TRANSE dat file
+30.05.2018 12:54:50: Creating TRANSE dat file is DONE
+30.05.2018 12:54:50: Starting TRANS_E
+30.05.2018 12:54:51: TRANS_E Exited
+30.05.2018 12:54:51: ID: 6 Cooling intervals: 148::: 6::: 46::: 50::: 27Conductivity: 723,131811466595Goal Function: 6,0210056980057
+30.05.2018 12:54:51: Starting Simulations
+30.05.2018 12:54:51: Calculating amplitude
+30.05.2018 12:54:51: End of amplitude calculation
+30.05.2018 12:54:51: Creating INP File named: eval.inp
+30.05.2018 12:54:51: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 12:54:51: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 12:56:16: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 12:56:16: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 12:56:16: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 12:56:16: Creating data for Trans E from csv
+30.05.2018 12:56:16: Creating data for Trans E from csv is DONE
+30.05.2018 12:56:17: Creating TRANSE dat file
+30.05.2018 12:56:17: Creating TRANSE dat file is DONE
+30.05.2018 12:56:17: Starting TRANS_E
+30.05.2018 12:56:17: TRANS_E Exited
+30.05.2018 12:56:17: ID: 7 Cooling intervals: 159::: 10::: 41::: 64::: 23Conductivity: 558,358517940579Goal Function: 6,0210056980057
+30.05.2018 12:56:17: Starting Simulations
+30.05.2018 12:56:17: Calculating amplitude
+30.05.2018 12:56:17: End of amplitude calculation
+30.05.2018 12:56:17: Creating INP File named: eval.inp
+30.05.2018 12:56:17: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 12:56:17: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 12:57:42: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 12:57:42: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 12:57:42: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 12:57:42: Creating data for Trans E from csv
+30.05.2018 12:57:42: Creating data for Trans E from csv is DONE
+30.05.2018 12:57:42: Creating TRANSE dat file
+30.05.2018 12:57:42: Creating TRANSE dat file is DONE
+30.05.2018 12:57:42: Starting TRANS_E
+30.05.2018 12:57:43: TRANS_E Exited
+30.05.2018 12:57:43: ID: 8 Cooling intervals: 156::: 9::: 21::: 11::: 22Conductivity: 689,765512682388Goal Function: 6,0210056980057
+30.05.2018 12:57:43: Starting Simulations
+30.05.2018 12:57:43: Calculating amplitude
+30.05.2018 12:57:43: End of amplitude calculation
+30.05.2018 12:57:43: Creating INP File named: eval.inp
+30.05.2018 12:57:43: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 12:57:43: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 12:59:09: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 12:59:09: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 12:59:09: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 12:59:09: Creating data for Trans E from csv
+30.05.2018 12:59:09: Creating data for Trans E from csv is DONE
+30.05.2018 12:59:09: Creating TRANSE dat file
+30.05.2018 12:59:09: Creating TRANSE dat file is DONE
+30.05.2018 12:59:09: Starting TRANS_E
+30.05.2018 12:59:10: TRANS_E Exited
+30.05.2018 12:59:11: ID: 9 Cooling intervals: 141::: 36::: 47::: 97::: 41Conductivity: 599,614250066403Goal Function: 6,0210056980057
+30.05.2018 12:59:11: Best solution in this iteration: 
+Cooling intervals(starting with liquid): 141 ; 36 ; 47 ; 97 ; 41 ; 838 ; Liquid K=600
+Fractions: [RetainedAustenite =0,351 ] [Martensite =0,644 ][Ferrite =0,001 ] [Pearlite =0 ] 
+30.05.2018 12:59:11: Next step: 2, evaluations: 10
+30.05.2018 12:59:11: Starting Simulations
+30.05.2018 12:59:11: Calculating amplitude
+30.05.2018 12:59:11: End of amplitude calculation
+30.05.2018 12:59:11: Creating INP File named: eval.inp
+30.05.2018 12:59:11: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 12:59:11: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:00:38: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:00:38: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:00:38: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:00:38: Creating data for Trans E from csv
+30.05.2018 13:00:38: Creating data for Trans E from csv is DONE
+30.05.2018 13:00:38: Creating TRANSE dat file
+30.05.2018 13:00:38: Creating TRANSE dat file is DONE
+30.05.2018 13:00:38: Starting TRANS_E
+30.05.2018 13:00:39: TRANS_E Exited
+30.05.2018 13:00:39: ID: 10 Cooling intervals: 179::: 3::: 55::: 59::: 11Conductivity: 644,847610747217Goal Function: 6,0210056980057
+30.05.2018 13:00:39: Starting Simulations
+30.05.2018 13:00:39: Calculating amplitude
+30.05.2018 13:00:39: End of amplitude calculation
+30.05.2018 13:00:39: Creating INP File named: eval.inp
+30.05.2018 13:00:39: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:00:39: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:02:06: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:02:06: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:02:06: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:02:06: Creating data for Trans E from csv
+30.05.2018 13:02:06: Creating data for Trans E from csv is DONE
+30.05.2018 13:02:06: Creating TRANSE dat file
+30.05.2018 13:02:06: Creating TRANSE dat file is DONE
+30.05.2018 13:02:06: Starting TRANS_E
+30.05.2018 13:02:06: TRANS_E Exited
+30.05.2018 13:02:07: ID: 11 Cooling intervals: 168::: 3::: 73::: 46::: 26Conductivity: 500Goal Function: 6,0210056980057
+30.05.2018 13:02:07: Starting Simulations
+30.05.2018 13:02:07: Calculating amplitude
+30.05.2018 13:02:07: End of amplitude calculation
+30.05.2018 13:02:07: Creating INP File named: eval.inp
+30.05.2018 13:02:07: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:02:07: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:03:29: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:03:29: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:03:29: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:03:29: Creating data for Trans E from csv
+30.05.2018 13:03:29: Creating data for Trans E from csv is DONE
+30.05.2018 13:03:29: Creating TRANSE dat file
+30.05.2018 13:03:29: Creating TRANSE dat file is DONE
+30.05.2018 13:03:29: Starting TRANS_E
+30.05.2018 13:03:30: TRANS_E Exited
+30.05.2018 13:03:30: ID: 12 Cooling intervals: 160::: 13::: 42::: 50::: 25Conductivity: 570,50012146498Goal Function: 6,0210056980057
+30.05.2018 13:03:30: Starting Simulations
+30.05.2018 13:03:30: Calculating amplitude
+30.05.2018 13:03:30: End of amplitude calculation
+30.05.2018 13:03:30: Creating INP File named: eval.inp
+30.05.2018 13:03:30: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:03:30: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:04:55: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:04:55: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:04:55: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:04:55: Creating data for Trans E from csv
+30.05.2018 13:04:55: Creating data for Trans E from csv is DONE
+30.05.2018 13:04:55: Creating TRANSE dat file
+30.05.2018 13:04:55: Creating TRANSE dat file is DONE
+30.05.2018 13:04:55: Starting TRANS_E
+30.05.2018 13:04:56: TRANS_E Exited
+30.05.2018 13:04:56: ID: 13 Cooling intervals: 168::: 3::: 53::: 23::: 25Conductivity: 500Goal Function: 6,0210056980057
+30.05.2018 13:04:56: Starting Simulations
+30.05.2018 13:04:56: Calculating amplitude
+30.05.2018 13:04:56: End of amplitude calculation
+30.05.2018 13:04:56: Creating INP File named: eval.inp
+30.05.2018 13:04:56: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:04:56: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:06:18: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:06:19: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:06:19: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:06:19: Creating data for Trans E from csv
+30.05.2018 13:06:19: Creating data for Trans E from csv is DONE
+30.05.2018 13:06:19: Creating TRANSE dat file
+30.05.2018 13:06:19: Creating TRANSE dat file is DONE
+30.05.2018 13:06:19: Starting TRANS_E
+30.05.2018 13:06:19: TRANS_E Exited
+30.05.2018 13:06:19: ID: 14 Cooling intervals: 155::: 54::: 55::: 48::: 26Conductivity: 593,196290231703Goal Function: 6,0210056980057
+30.05.2018 13:06:19: Best solution in this iteration: 
+Cooling intervals(starting with liquid): 155 ; 54 ; 55 ; 48 ; 26 ; 862 ; Liquid K=593
+Fractions: [RetainedAustenite =0,351 ] [Martensite =0,644 ][Ferrite =0,001 ] [Pearlite =0 ] 
+30.05.2018 13:06:19: Next step: 3, evaluations: 15
+30.05.2018 13:06:19: Starting Simulations
+30.05.2018 13:06:19: Calculating amplitude
+30.05.2018 13:06:19: End of amplitude calculation
+30.05.2018 13:06:19: Creating INP File named: eval.inp
+30.05.2018 13:06:19: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:06:19: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:07:42: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:07:42: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:07:42: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:07:42: Creating data for Trans E from csv
+30.05.2018 13:07:42: Creating data for Trans E from csv is DONE
+30.05.2018 13:07:42: Creating TRANSE dat file
+30.05.2018 13:07:42: Creating TRANSE dat file is DONE
+30.05.2018 13:07:42: Starting TRANS_E
+30.05.2018 13:07:43: TRANS_E Exited
+30.05.2018 13:07:44: ID: 15 Cooling intervals: 182::: 13::: 54::: 52::: 7Conductivity: 500Goal Function: 6,0210056980057
+30.05.2018 13:07:44: Starting Simulations
+30.05.2018 13:07:44: Calculating amplitude
+30.05.2018 13:07:44: End of amplitude calculation
+30.05.2018 13:07:44: Creating INP File named: eval.inp
+30.05.2018 13:07:44: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:07:44: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:09:08: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:09:08: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:09:08: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:09:08: Creating data for Trans E from csv
+30.05.2018 13:09:08: Creating data for Trans E from csv is DONE
+30.05.2018 13:09:08: Creating TRANSE dat file
+30.05.2018 13:09:08: Creating TRANSE dat file is DONE
+30.05.2018 13:09:08: Starting TRANS_E
+30.05.2018 13:09:20: TRANS_E Exited
+30.05.2018 13:09:20: ID: 16 Cooling intervals: 159::: 15::: 42::: 49::: 26Conductivity: 750Goal Function: 6,0210056980057
+30.05.2018 13:09:20: Starting Simulations
+30.05.2018 13:09:20: Calculating amplitude
+30.05.2018 13:09:20: End of amplitude calculation
+30.05.2018 13:09:20: Creating INP File named: eval.inp
+30.05.2018 13:09:20: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:09:20: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:10:46: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:10:46: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:10:46: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:10:46: Creating data for Trans E from csv
+30.05.2018 13:10:46: Creating data for Trans E from csv is DONE
+30.05.2018 13:10:46: Creating TRANSE dat file
+30.05.2018 13:10:46: Creating TRANSE dat file is DONE
+30.05.2018 13:10:46: Starting TRANS_E
+30.05.2018 13:10:47: TRANS_E Exited
+30.05.2018 13:10:47: ID: 17 Cooling intervals: 166::: 13::: 42::: 44::: 27Conductivity: 588,066590874748Goal Function: 6,0210056980057
+30.05.2018 13:10:47: Starting Simulations
+30.05.2018 13:10:47: Calculating amplitude
+30.05.2018 13:10:47: End of amplitude calculation
+30.05.2018 13:10:47: Creating INP File named: eval.inp
+30.05.2018 13:10:47: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:10:47: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:12:13: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:12:13: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:12:13: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:12:13: Creating data for Trans E from csv
+30.05.2018 13:12:13: Creating data for Trans E from csv is DONE
+30.05.2018 13:12:13: Creating TRANSE dat file
+30.05.2018 13:12:13: Creating TRANSE dat file is DONE
+30.05.2018 13:12:13: Starting TRANS_E
+30.05.2018 13:12:14: TRANS_E Exited
+30.05.2018 13:12:14: ID: 18 Cooling intervals: 168::: 6::: 57::: 52::: 24Conductivity: 635,140230200388Goal Function: 6,0210056980057
+30.05.2018 13:12:14: Starting Simulations
+30.05.2018 13:12:14: Calculating amplitude
+30.05.2018 13:12:14: End of amplitude calculation
+30.05.2018 13:12:14: Creating INP File named: eval.inp
+30.05.2018 13:12:14: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:12:14: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:13:41: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:13:41: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:13:41: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:13:41: Creating data for Trans E from csv
+30.05.2018 13:13:41: Creating data for Trans E from csv is DONE
+30.05.2018 13:13:41: Creating TRANSE dat file
+30.05.2018 13:13:41: Creating TRANSE dat file is DONE
+30.05.2018 13:13:41: Starting TRANS_E
+30.05.2018 13:13:42: TRANS_E Exited
+30.05.2018 13:13:43: ID: 19 Cooling intervals: 157::: 31::: 75::: 24::: 39Conductivity: 585,08000975626Goal Function: 6,0210056980057
+30.05.2018 13:13:43: Best solution in this iteration: 
+Cooling intervals(starting with liquid): 157 ; 31 ; 75 ; 24 ; 39 ; 874 ; Liquid K=585
+Fractions: [RetainedAustenite =0,351 ] [Martensite =0,644 ][Ferrite =0,001 ] [Pearlite =0 ] 
+30.05.2018 13:13:43: Next step: 4, evaluations: 20
+30.05.2018 13:13:43: Starting Simulations
+30.05.2018 13:13:43: Calculating amplitude
+30.05.2018 13:13:43: End of amplitude calculation
+30.05.2018 13:13:43: Creating INP File named: eval.inp
+30.05.2018 13:13:43: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:13:43: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:15:09: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:15:10: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:15:10: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:15:10: Creating data for Trans E from csv
+30.05.2018 13:15:10: Creating data for Trans E from csv is DONE
+30.05.2018 13:15:10: Creating TRANSE dat file
+30.05.2018 13:15:10: Creating TRANSE dat file is DONE
+30.05.2018 13:15:10: Starting TRANS_E
+30.05.2018 13:15:11: TRANS_E Exited
+30.05.2018 13:15:11: ID: 20 Cooling intervals: 159::: 5::: 50::: 58::: 22Conductivity: 617,09757387312Goal Function: 6,0210056980057
+30.05.2018 13:15:11: Starting Simulations
+30.05.2018 13:15:11: Calculating amplitude
+30.05.2018 13:15:11: End of amplitude calculation
+30.05.2018 13:15:11: Creating INP File named: eval.inp
+30.05.2018 13:15:11: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:15:11: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:16:35: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:16:35: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:16:35: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:16:35: Creating data for Trans E from csv
+30.05.2018 13:16:35: Creating data for Trans E from csv is DONE
+30.05.2018 13:16:35: Creating TRANSE dat file
+30.05.2018 13:16:35: Creating TRANSE dat file is DONE
+30.05.2018 13:16:35: Starting TRANS_E
+30.05.2018 13:16:36: TRANS_E Exited
+30.05.2018 13:16:36: ID: 21 Cooling intervals: 153::: 19::: 23::: 55::: 26Conductivity: 762,909130566324Goal Function: 6,0210056980057
+30.05.2018 13:16:36: Starting Simulations
+30.05.2018 13:16:36: Calculating amplitude
+30.05.2018 13:16:36: End of amplitude calculation
+30.05.2018 13:16:36: Creating INP File named: eval.inp
+30.05.2018 13:16:36: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:16:36: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:18:00: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:18:00: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:18:00: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:18:00: Creating data for Trans E from csv
+30.05.2018 13:18:00: Creating data for Trans E from csv is DONE
+30.05.2018 13:18:00: Creating TRANSE dat file
+30.05.2018 13:18:00: Creating TRANSE dat file is DONE
+30.05.2018 13:18:00: Starting TRANS_E
+30.05.2018 13:18:01: TRANS_E Exited
+30.05.2018 13:18:02: ID: 22 Cooling intervals: 168::: 11::: 42::: 64::: 27Conductivity: 576,946443118782Goal Function: 6,0210056980057
+30.05.2018 13:18:02: Starting Simulations
+30.05.2018 13:18:02: Calculating amplitude
+30.05.2018 13:18:02: End of amplitude calculation
+30.05.2018 13:18:02: Creating INP File named: eval.inp
+30.05.2018 13:18:02: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:18:02: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:19:27: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:19:27: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:19:27: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:19:27: Creating data for Trans E from csv
+30.05.2018 13:19:27: Creating data for Trans E from csv is DONE
+30.05.2018 13:19:27: Creating TRANSE dat file
+30.05.2018 13:19:27: Creating TRANSE dat file is DONE
+30.05.2018 13:19:27: Starting TRANS_E
+30.05.2018 13:19:37: TRANS_E Exited
+30.05.2018 13:19:37: ID: 23 Cooling intervals: 154::: 15::: 18::: 46::: 25Conductivity: 710,613949301325Goal Function: 6,0210056980057
+30.05.2018 13:19:37: Starting Simulations
+30.05.2018 13:19:37: Calculating amplitude
+30.05.2018 13:19:37: End of amplitude calculation
+30.05.2018 13:19:37: Creating INP File named: eval.inp
+30.05.2018 13:19:37: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:19:37: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:21:03: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:21:04: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:21:04: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:21:04: Creating data for Trans E from csv
+30.05.2018 13:21:04: Creating data for Trans E from csv is DONE
+30.05.2018 13:21:04: Creating TRANSE dat file
+30.05.2018 13:21:04: Creating TRANSE dat file is DONE
+30.05.2018 13:21:04: Starting TRANS_E
+30.05.2018 13:21:05: TRANS_E Exited
+30.05.2018 13:21:05: ID: 24 Cooling intervals: 136::: 39::: 100::: 73::: 47Conductivity: 574,866126431234Goal Function: 6,0210056980057
+30.05.2018 13:21:05: Best solution in this iteration: 
+Cooling intervals(starting with liquid): 136 ; 39 ; 100 ; 73 ; 47 ; 805 ; Liquid K=575
+Fractions: [RetainedAustenite =0,351 ] [Martensite =0,644 ][Ferrite =0,001 ] [Pearlite =0 ] 
+30.05.2018 13:21:05: Next step: 5, evaluations: 25
+30.05.2018 13:21:05: Starting Simulations
+30.05.2018 13:21:05: Calculating amplitude
+30.05.2018 13:21:05: End of amplitude calculation
+30.05.2018 13:21:05: Creating INP File named: eval.inp
+30.05.2018 13:21:05: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:21:05: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:22:28: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:22:29: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:22:29: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:22:29: Creating data for Trans E from csv
+30.05.2018 13:22:29: Creating data for Trans E from csv is DONE
+30.05.2018 13:22:29: Creating TRANSE dat file
+30.05.2018 13:22:29: Creating TRANSE dat file is DONE
+30.05.2018 13:22:29: Starting TRANS_E
+30.05.2018 13:22:30: TRANS_E Exited
+30.05.2018 13:22:30: ID: 25 Cooling intervals: 160::: 3::: 47::: 63::: 36Conductivity: 681,64450625371Goal Function: 6,0210056980057
+30.05.2018 13:22:30: Starting Simulations
+30.05.2018 13:22:30: Calculating amplitude
+30.05.2018 13:22:30: End of amplitude calculation
+30.05.2018 13:22:30: Creating INP File named: eval.inp
+30.05.2018 13:22:30: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:22:30: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:23:55: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:23:55: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:23:55: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:23:55: Creating data for Trans E from csv
+30.05.2018 13:23:55: Creating data for Trans E from csv is DONE
+30.05.2018 13:23:55: Creating TRANSE dat file
+30.05.2018 13:23:55: Creating TRANSE dat file is DONE
+30.05.2018 13:23:55: Starting TRANS_E
+30.05.2018 13:23:56: TRANS_E Exited
+30.05.2018 13:23:56: ID: 26 Cooling intervals: 147::: 3::: 33::: 56::: 27Conductivity: 532,934815777076Goal Function: 6,0210056980057
+30.05.2018 13:23:56: Starting Simulations
+30.05.2018 13:23:56: Calculating amplitude
+30.05.2018 13:23:56: End of amplitude calculation
+30.05.2018 13:23:56: Creating INP File named: eval.inp
+30.05.2018 13:23:56: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:23:56: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:25:19: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:25:19: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:25:19: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:25:19: Creating data for Trans E from csv
+30.05.2018 13:25:19: Creating data for Trans E from csv is DONE
+30.05.2018 13:25:19: Creating TRANSE dat file
+30.05.2018 13:25:19: Creating TRANSE dat file is DONE
+30.05.2018 13:25:19: Starting TRANS_E
+30.05.2018 13:25:20: TRANS_E Exited
+30.05.2018 13:25:20: ID: 27 Cooling intervals: 161::: 11::: 41::: 69::: 25Conductivity: 568,535802372896Goal Function: 6,0210056980057
+30.05.2018 13:25:20: Starting Simulations
+30.05.2018 13:25:20: Calculating amplitude
+30.05.2018 13:25:20: End of amplitude calculation
+30.05.2018 13:25:20: Creating INP File named: eval.inp
+30.05.2018 13:25:20: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:25:20: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:26:53: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:26:53: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:26:53: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:26:53: Creating data for Trans E from csv
+30.05.2018 13:26:53: Creating data for Trans E from csv is DONE
+30.05.2018 13:26:53: Creating TRANSE dat file
+30.05.2018 13:26:53: Creating TRANSE dat file is DONE
+30.05.2018 13:26:53: Starting TRANS_E
+30.05.2018 13:26:54: TRANS_E Exited
+30.05.2018 13:26:54: ID: 28 Cooling intervals: 145::: 19::: 3::: 17::: 22Conductivity: 622,215313735051Goal Function: 6,0210056980057
+30.05.2018 13:26:54: Starting Simulations
+30.05.2018 13:26:54: Calculating amplitude
+30.05.2018 13:26:54: End of amplitude calculation
+30.05.2018 13:26:54: Creating INP File named: eval.inp
+30.05.2018 13:26:54: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:26:54: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:46:11: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:46:11: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:46:11: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:46:11: Creating data for Trans E from csv
+30.05.2018 13:46:11: Creating data for Trans E from csv is DONE
+30.05.2018 13:46:11: Creating TRANSE dat file
+30.05.2018 13:46:11: Creating TRANSE dat file is DONE
+30.05.2018 13:46:11: Starting TRANS_E
+30.05.2018 13:46:11: TRANS_E Exited
+30.05.2018 13:46:12: ID: 29 Cooling intervals: 158::: 58::: 86::: 100::: 22Conductivity: 570,819813662812Goal Function: 6,0210056980057
+30.05.2018 13:46:12: Best solution in this iteration: 
+Cooling intervals(starting with liquid): 158 ; 58 ; 86 ; 100 ; 22 ; 776 ; Liquid K=571
+Fractions: [RetainedAustenite =0,351 ] [Martensite =0,644 ][Ferrite =0,001 ] [Pearlite =0 ] 
+30.05.2018 13:46:12: Next step: 6, evaluations: 30
+30.05.2018 13:46:12: Starting Simulations
+30.05.2018 13:46:12: Calculating amplitude
+30.05.2018 13:46:12: End of amplitude calculation
+30.05.2018 13:46:12: Creating INP File named: eval.inp
+30.05.2018 13:46:12: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:46:12: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:47:41: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:47:41: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:47:41: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:47:41: Creating data for Trans E from csv
+30.05.2018 13:47:41: Creating data for Trans E from csv is DONE
+30.05.2018 13:47:41: Creating TRANSE dat file
+30.05.2018 13:47:41: Creating TRANSE dat file is DONE
+30.05.2018 13:47:41: Starting TRANS_E
+30.05.2018 13:47:42: TRANS_E Exited
+30.05.2018 13:47:42: ID: 30 Cooling intervals: 183::: 7::: 54::: 66::: 33Conductivity: 631,481243390799Goal Function: 6,0210056980057
+30.05.2018 13:47:42: Starting Simulations
+30.05.2018 13:47:42: Calculating amplitude
+30.05.2018 13:47:42: End of amplitude calculation
+30.05.2018 13:47:42: Creating INP File named: eval.inp
+30.05.2018 13:47:42: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:47:42: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:49:17: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:49:17: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:49:18: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:49:18: Creating data for Trans E from csv
+30.05.2018 13:49:18: Creating data for Trans E from csv is DONE
+30.05.2018 13:49:18: Creating TRANSE dat file
+30.05.2018 13:49:18: Creating TRANSE dat file is DONE
+30.05.2018 13:49:18: Starting TRANS_E
+30.05.2018 13:49:18: TRANS_E Exited
+30.05.2018 13:49:18: ID: 31 Cooling intervals: 166::: 8::: 60::: 50::: 27Conductivity: 633,135103366351Goal Function: 6,0210056980057
+30.05.2018 13:49:18: Starting Simulations
+30.05.2018 13:49:18: Calculating amplitude
+30.05.2018 13:49:18: End of amplitude calculation
+30.05.2018 13:49:18: Creating INP File named: eval.inp
+30.05.2018 13:49:18: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:49:18: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:50:54: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:50:54: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:50:54: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:50:54: Creating data for Trans E from csv
+30.05.2018 13:50:54: Creating data for Trans E from csv is DONE
+30.05.2018 13:50:54: Creating TRANSE dat file
+30.05.2018 13:50:54: Creating TRANSE dat file is DONE
+30.05.2018 13:50:54: Starting TRANS_E
+30.05.2018 13:50:55: TRANS_E Exited
+30.05.2018 13:50:55: ID: 32 Cooling intervals: 158::: 11::: 41::: 62::: 26Conductivity: 575,921790490164Goal Function: 6,0210056980057
+30.05.2018 13:50:55: Starting Simulations
+30.05.2018 13:50:55: Calculating amplitude
+30.05.2018 13:50:55: End of amplitude calculation
+30.05.2018 13:50:55: Creating INP File named: eval.inp
+30.05.2018 13:50:55: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:50:55: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:52:33: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:52:33: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:52:33: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:52:33: Creating data for Trans E from csv
+30.05.2018 13:52:33: Creating data for Trans E from csv is DONE
+30.05.2018 13:52:33: Creating TRANSE dat file
+30.05.2018 13:52:33: Creating TRANSE dat file is DONE
+30.05.2018 13:52:33: Starting TRANS_E
+30.05.2018 13:52:33: TRANS_E Exited
+30.05.2018 13:52:34: ID: 33 Cooling intervals: 147::: 12::: 8::: 43::: 22Conductivity: 511,920838520995Goal Function: 6,0210056980057
+30.05.2018 13:52:34: Starting Simulations
+30.05.2018 13:52:34: Calculating amplitude
+30.05.2018 13:52:34: End of amplitude calculation
+30.05.2018 13:52:34: Creating INP File named: eval.inp
+30.05.2018 13:52:34: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:52:34: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:54:07: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:54:07: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:54:07: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:54:07: Creating data for Trans E from csv
+30.05.2018 13:54:07: Creating data for Trans E from csv is DONE
+30.05.2018 13:54:07: Creating TRANSE dat file
+30.05.2018 13:54:07: Creating TRANSE dat file is DONE
+30.05.2018 13:54:07: Starting TRANS_E
+30.05.2018 13:54:08: TRANS_E Exited
+30.05.2018 13:54:08: ID: 34 Cooling intervals: 151::: 64::: 74::: 58::: 30Conductivity: 578,741606423808Goal Function: 6,0210056980057
+30.05.2018 13:54:08: Best solution in this iteration: 
+Cooling intervals(starting with liquid): 151 ; 64 ; 74 ; 58 ; 30 ; 823 ; Liquid K=579
+Fractions: [RetainedAustenite =0,351 ] [Martensite =0,644 ][Ferrite =0,001 ] [Pearlite =0 ] 
+30.05.2018 13:54:08: Next step: 7, evaluations: 35
+30.05.2018 13:54:08: Starting Simulations
+30.05.2018 13:54:08: Calculating amplitude
+30.05.2018 13:54:08: End of amplitude calculation
+30.05.2018 13:54:08: Creating INP File named: eval.inp
+30.05.2018 13:54:08: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:54:08: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:55:46: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:55:46: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:55:46: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:55:46: Creating data for Trans E from csv
+30.05.2018 13:55:46: Creating data for Trans E from csv is DONE
+30.05.2018 13:55:46: Creating TRANSE dat file
+30.05.2018 13:55:46: Creating TRANSE dat file is DONE
+30.05.2018 13:55:46: Starting TRANS_E
+30.05.2018 13:55:48: TRANS_E Exited
+30.05.2018 13:55:48: ID: 35 Cooling intervals: 170::: 9::: 53::: 58::: 27Conductivity: 554,793378111223Goal Function: 6,0210056980057
+30.05.2018 13:55:48: Starting Simulations
+30.05.2018 13:55:48: Calculating amplitude
+30.05.2018 13:55:48: End of amplitude calculation
+30.05.2018 13:55:48: Creating INP File named: eval.inp
+30.05.2018 13:55:48: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:55:48: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:57:27: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:57:27: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:57:27: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:57:27: Creating data for Trans E from csv
+30.05.2018 13:57:27: Creating data for Trans E from csv is DONE
+30.05.2018 13:57:27: Creating TRANSE dat file
+30.05.2018 13:57:27: Creating TRANSE dat file is DONE
+30.05.2018 13:57:27: Starting TRANS_E
+30.05.2018 13:57:27: TRANS_E Exited
+30.05.2018 13:57:28: ID: 36 Cooling intervals: 170::: 13::: 43::: 54::: 26Conductivity: 779,110966037455Goal Function: 6,0210056980057
+30.05.2018 13:57:28: Starting Simulations
+30.05.2018 13:57:28: Calculating amplitude
+30.05.2018 13:57:28: End of amplitude calculation
+30.05.2018 13:57:28: Creating INP File named: eval.inp
+30.05.2018 13:57:28: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:57:28: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 13:59:07: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 13:59:07: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 13:59:07: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 13:59:07: Creating data for Trans E from csv
+30.05.2018 13:59:07: Creating data for Trans E from csv is DONE
+30.05.2018 13:59:07: Creating TRANSE dat file
+30.05.2018 13:59:07: Creating TRANSE dat file is DONE
+30.05.2018 13:59:07: Starting TRANS_E
+30.05.2018 13:59:09: TRANS_E Exited
+30.05.2018 13:59:10: ID: 37 Cooling intervals: 157::: 13::: 42::: 45::: 26Conductivity: 581,406979863117Goal Function: 6,0210056980057
+30.05.2018 13:59:10: Starting Simulations
+30.05.2018 13:59:10: Calculating amplitude
+30.05.2018 13:59:10: End of amplitude calculation
+30.05.2018 13:59:10: Creating INP File named: eval.inp
+30.05.2018 13:59:10: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 13:59:10: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:00:45: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:00:45: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:00:45: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:00:45: Creating data for Trans E from csv
+30.05.2018 14:00:45: Creating data for Trans E from csv is DONE
+30.05.2018 14:00:45: Creating TRANSE dat file
+30.05.2018 14:00:45: Creating TRANSE dat file is DONE
+30.05.2018 14:00:45: Starting TRANS_E
+30.05.2018 14:00:46: TRANS_E Exited
+30.05.2018 14:00:46: ID: 38 Cooling intervals: 160::: 4::: 56::: 41::: 23Conductivity: 743,376381097254Goal Function: 6,0210056980057
+30.05.2018 14:00:46: Starting Simulations
+30.05.2018 14:00:46: Calculating amplitude
+30.05.2018 14:00:46: End of amplitude calculation
+30.05.2018 14:00:46: Creating INP File named: eval.inp
+30.05.2018 14:00:46: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:00:46: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:02:20: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:02:20: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:02:20: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:02:20: Creating data for Trans E from csv
+30.05.2018 14:02:20: Creating data for Trans E from csv is DONE
+30.05.2018 14:02:20: Creating TRANSE dat file
+30.05.2018 14:02:20: Creating TRANSE dat file is DONE
+30.05.2018 14:02:20: Starting TRANS_E
+30.05.2018 14:02:21: TRANS_E Exited
+30.05.2018 14:02:21: ID: 39 Cooling intervals: 156::: 16::: 52::: 42::: 35Conductivity: 589,858406134229Goal Function: 6,0210056980057
+30.05.2018 14:02:21: Best solution in this iteration: 
+Cooling intervals(starting with liquid): 156 ; 16 ; 52 ; 42 ; 35 ; 899 ; Liquid K=590
+Fractions: [RetainedAustenite =0,351 ] [Martensite =0,644 ][Ferrite =0,001 ] [Pearlite =0 ] 
+30.05.2018 14:02:21: Next step: 8, evaluations: 40
+30.05.2018 14:02:21: Starting Simulations
+30.05.2018 14:02:21: Calculating amplitude
+30.05.2018 14:02:21: End of amplitude calculation
+30.05.2018 14:02:21: Creating INP File named: eval.inp
+30.05.2018 14:02:21: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:02:21: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:16:36: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:16:36: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:16:36: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:16:36: Creating data for Trans E from csv
+30.05.2018 14:16:36: Creating data for Trans E from csv is DONE
+30.05.2018 14:16:36: Creating TRANSE dat file
+30.05.2018 14:16:36: Creating TRANSE dat file is DONE
+30.05.2018 14:16:36: Starting TRANS_E
+30.05.2018 14:16:37: TRANS_E Exited
+30.05.2018 14:16:37: ID: 40 Cooling intervals: 156::: 7::: 51::: 52::: 12Conductivity: 558,802650846468Goal Function: 6,0210056980057
+30.05.2018 14:16:37: Starting Simulations
+30.05.2018 14:16:37: Calculating amplitude
+30.05.2018 14:16:37: End of amplitude calculation
+30.05.2018 14:16:37: Creating INP File named: eval.inp
+30.05.2018 14:16:37: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:16:37: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:18:12: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:18:12: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:18:12: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:18:12: Creating data for Trans E from csv
+30.05.2018 14:18:12: Creating data for Trans E from csv is DONE
+30.05.2018 14:18:12: Creating TRANSE dat file
+30.05.2018 14:18:12: Creating TRANSE dat file is DONE
+30.05.2018 14:18:12: Starting TRANS_E
+30.05.2018 14:18:12: TRANS_E Exited
+30.05.2018 14:18:13: ID: 41 Cooling intervals: 160::: 16::: 34::: 60::: 26Conductivity: 535,378092965684Goal Function: 6,0210056980057
+30.05.2018 14:18:13: Starting Simulations
+30.05.2018 14:18:13: Calculating amplitude
+30.05.2018 14:18:13: End of amplitude calculation
+30.05.2018 14:18:13: Creating INP File named: eval.inp
+30.05.2018 14:18:13: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:18:13: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:19:45: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:19:45: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:19:45: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:19:45: Creating data for Trans E from csv
+30.05.2018 14:19:45: Creating data for Trans E from csv is DONE
+30.05.2018 14:19:45: Creating TRANSE dat file
+30.05.2018 14:19:45: Creating TRANSE dat file is DONE
+30.05.2018 14:19:45: Starting TRANS_E
+30.05.2018 14:19:46: TRANS_E Exited
+30.05.2018 14:19:46: ID: 42 Cooling intervals: 166::: 12::: 42::: 52::: 25Conductivity: 576,087802074088Goal Function: 6,0210056980057
+30.05.2018 14:19:46: Starting Simulations
+30.05.2018 14:19:46: Calculating amplitude
+30.05.2018 14:19:46: End of amplitude calculation
+30.05.2018 14:19:46: Creating INP File named: eval.inp
+30.05.2018 14:19:46: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:19:46: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:21:18: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:21:18: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:21:18: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:21:18: Creating data for Trans E from csv
+30.05.2018 14:21:18: Creating data for Trans E from csv is DONE
+30.05.2018 14:21:18: Creating TRANSE dat file
+30.05.2018 14:21:18: Creating TRANSE dat file is DONE
+30.05.2018 14:21:18: Starting TRANS_E
+30.05.2018 14:21:19: TRANS_E Exited
+30.05.2018 14:21:19: ID: 43 Cooling intervals: 169::: 11::: 54::: 29::: 27Conductivity: 853,498469258154Goal Function: 9,98323786407767
+30.05.2018 14:21:19: Starting Simulations
+30.05.2018 14:21:19: Calculating amplitude
+30.05.2018 14:21:19: End of amplitude calculation
+30.05.2018 14:21:19: Creating INP File named: eval.inp
+30.05.2018 14:21:19: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:21:19: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:22:51: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:22:51: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:22:51: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:22:51: Creating data for Trans E from csv
+30.05.2018 14:22:51: Creating data for Trans E from csv is DONE
+30.05.2018 14:22:51: Creating TRANSE dat file
+30.05.2018 14:22:51: Creating TRANSE dat file is DONE
+30.05.2018 14:22:51: Starting TRANS_E
+30.05.2018 14:22:52: TRANS_E Exited
+30.05.2018 14:22:52: ID: 44 Cooling intervals: 156::: 23::: 56::: 90::: 36Conductivity: 588,539773220017Goal Function: 6,0210056980057
+30.05.2018 14:22:52: Best solution in this iteration: 
+Cooling intervals(starting with liquid): 156 ; 23 ; 56 ; 90 ; 36 ; 839 ; Liquid K=589
+Fractions: [RetainedAustenite =0,351 ] [Martensite =0,644 ][Ferrite =0,001 ] [Pearlite =0 ] 
+30.05.2018 14:22:52: Next step: 9, evaluations: 45
+30.05.2018 14:22:52: Starting Simulations
+30.05.2018 14:22:52: Calculating amplitude
+30.05.2018 14:22:52: End of amplitude calculation
+30.05.2018 14:22:52: Creating INP File named: eval.inp
+30.05.2018 14:22:52: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:22:52: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:24:26: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:24:26: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:24:26: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:24:26: Creating data for Trans E from csv
+30.05.2018 14:24:26: Creating data for Trans E from csv is DONE
+30.05.2018 14:24:26: Creating TRANSE dat file
+30.05.2018 14:24:26: Creating TRANSE dat file is DONE
+30.05.2018 14:24:26: Starting TRANS_E
+30.05.2018 14:24:26: TRANS_E Exited
+30.05.2018 14:24:26: ID: 45 Cooling intervals: 171::: 4::: 45::: 57::: 17Conductivity: 659,988267979737Goal Function: 6,0210056980057
+30.05.2018 14:24:26: Starting Simulations
+30.05.2018 14:24:26: Calculating amplitude
+30.05.2018 14:24:26: End of amplitude calculation
+30.05.2018 14:24:26: Creating INP File named: eval.inp
+30.05.2018 14:24:26: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:24:26: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:25:59: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:25:59: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:25:59: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:25:59: Creating data for Trans E from csv
+30.05.2018 14:25:59: Creating data for Trans E from csv is DONE
+30.05.2018 14:25:59: Creating TRANSE dat file
+30.05.2018 14:25:59: Creating TRANSE dat file is DONE
+30.05.2018 14:25:59: Starting TRANS_E
+30.05.2018 14:26:00: TRANS_E Exited
+30.05.2018 14:26:00: ID: 46 Cooling intervals: 140::: 15::: 48::: 53::: 26Conductivity: 500Goal Function: 6,0210056980057
+30.05.2018 14:26:00: Starting Simulations
+30.05.2018 14:26:00: Calculating amplitude
+30.05.2018 14:26:00: End of amplitude calculation
+30.05.2018 14:26:00: Creating INP File named: eval.inp
+30.05.2018 14:26:00: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:26:00: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:27:34: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:27:34: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:27:34: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:27:34: Creating data for Trans E from csv
+30.05.2018 14:27:34: Creating data for Trans E from csv is DONE
+30.05.2018 14:27:34: Creating TRANSE dat file
+30.05.2018 14:27:34: Creating TRANSE dat file is DONE
+30.05.2018 14:27:34: Starting TRANS_E
+30.05.2018 14:27:34: TRANS_E Exited
+30.05.2018 14:27:35: ID: 47 Cooling intervals: 169::: 11::: 42::: 61::: 25Conductivity: 572,007828187838Goal Function: 6,0210056980057
+30.05.2018 14:27:35: Starting Simulations
+30.05.2018 14:27:35: Calculating amplitude
+30.05.2018 14:27:35: End of amplitude calculation
+30.05.2018 14:27:35: Creating INP File named: eval.inp
+30.05.2018 14:27:35: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:27:35: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:29:08: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:29:08: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:29:08: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:29:08: Creating data for Trans E from csv
+30.05.2018 14:29:08: Creating data for Trans E from csv is DONE
+30.05.2018 14:29:08: Creating TRANSE dat file
+30.05.2018 14:29:08: Creating TRANSE dat file is DONE
+30.05.2018 14:29:08: Starting TRANS_E
+30.05.2018 14:29:09: TRANS_E Exited
+30.05.2018 14:29:09: ID: 48 Cooling intervals: 160::: 17::: 14::: 19::: 28Conductivity: 711,630794405642Goal Function: 6,0210056980057
+30.05.2018 14:29:09: Starting Simulations
+30.05.2018 14:29:09: Calculating amplitude
+30.05.2018 14:29:09: End of amplitude calculation
+30.05.2018 14:29:09: Creating INP File named: eval.inp
+30.05.2018 14:29:09: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:29:09: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:30:46: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:30:46: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:30:46: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:30:46: Creating data for Trans E from csv
+30.05.2018 14:30:46: Creating data for Trans E from csv is DONE
+30.05.2018 14:30:46: Creating TRANSE dat file
+30.05.2018 14:30:47: Creating TRANSE dat file is DONE
+30.05.2018 14:30:47: Starting TRANS_E
+30.05.2018 14:30:47: TRANS_E Exited
+30.05.2018 14:30:47: ID: 49 Cooling intervals: 155::: 72::: 61::: 86::: 32Conductivity: 581,823929828069Goal Function: 6,0210056980057
+30.05.2018 14:30:47: Best solution in this iteration: 
+Cooling intervals(starting with liquid): 155 ; 72 ; 61 ; 86 ; 32 ; 794 ; Liquid K=582
+Fractions: [RetainedAustenite =0,351 ] [Martensite =0,644 ][Ferrite =0,001 ] [Pearlite =0 ] 
+30.05.2018 14:30:47: Next step: 10, evaluations: 50
+30.05.2018 14:30:47: Starting Simulations
+30.05.2018 14:30:47: Calculating amplitude
+30.05.2018 14:30:47: End of amplitude calculation
+30.05.2018 14:30:47: Creating INP File named: eval.inp
+30.05.2018 14:30:47: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:30:47: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:32:27: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:32:27: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:32:27: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:32:27: Creating data for Trans E from csv
+30.05.2018 14:32:27: Creating data for Trans E from csv is DONE
+30.05.2018 14:32:27: Creating TRANSE dat file
+30.05.2018 14:32:27: Creating TRANSE dat file is DONE
+30.05.2018 14:32:27: Starting TRANS_E
+30.05.2018 14:32:28: TRANS_E Exited
+30.05.2018 14:32:28: ID: 50 Cooling intervals: 173::: 3::: 42::: 64::: 22Conductivity: 667,24554450106Goal Function: 6,0210056980057
+30.05.2018 14:32:28: Starting Simulations
+30.05.2018 14:32:28: Calculating amplitude
+30.05.2018 14:32:28: End of amplitude calculation
+30.05.2018 14:32:28: Creating INP File named: eval.inp
+30.05.2018 14:32:28: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:32:28: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:34:06: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:34:06: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:34:06: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:34:06: Creating data for Trans E from csv
+30.05.2018 14:34:06: Creating data for Trans E from csv is DONE
+30.05.2018 14:34:06: Creating TRANSE dat file
+30.05.2018 14:34:06: Creating TRANSE dat file is DONE
+30.05.2018 14:34:06: Starting TRANS_E
+30.05.2018 14:34:07: TRANS_E Exited
+30.05.2018 14:34:07: ID: 51 Cooling intervals: 165::: 3::: 50::: 48::: 27Conductivity: 608,416145768141Goal Function: 6,0210056980057
+30.05.2018 14:34:07: Starting Simulations
+30.05.2018 14:34:07: Calculating amplitude
+30.05.2018 14:34:07: End of amplitude calculation
+30.05.2018 14:34:07: Creating INP File named: eval.inp
+30.05.2018 14:34:07: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:34:07: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:35:42: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:35:42: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:35:42: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:35:42: Creating data for Trans E from csv
+30.05.2018 14:35:42: Creating data for Trans E from csv is DONE
+30.05.2018 14:35:42: Creating TRANSE dat file
+30.05.2018 14:35:42: Creating TRANSE dat file is DONE
+30.05.2018 14:35:42: Starting TRANS_E
+30.05.2018 14:35:42: TRANS_E Exited
+30.05.2018 14:35:43: ID: 52 Cooling intervals: 168::: 12::: 41::: 57::: 26Conductivity: 577,587722186106Goal Function: 6,0210056980057
+30.05.2018 14:35:43: Starting Simulations
+30.05.2018 14:35:43: Calculating amplitude
+30.05.2018 14:35:43: End of amplitude calculation
+30.05.2018 14:35:43: Creating INP File named: eval.inp
+30.05.2018 14:35:43: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:35:43: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:37:16: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:37:16: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:37:16: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:37:16: Creating data for Trans E from csv
+30.05.2018 14:37:16: Creating data for Trans E from csv is DONE
+30.05.2018 14:37:16: Creating TRANSE dat file
+30.05.2018 14:37:16: Creating TRANSE dat file is DONE
+30.05.2018 14:37:16: Starting TRANS_E
+30.05.2018 14:37:17: TRANS_E Exited
+30.05.2018 14:37:17: ID: 53 Cooling intervals: 154::: 13::: 3::: 54::: 24Conductivity: 535,627119115039Goal Function: 6,0210056980057
+30.05.2018 14:37:17: Starting Simulations
+30.05.2018 14:37:17: Calculating amplitude
+30.05.2018 14:37:17: End of amplitude calculation
+30.05.2018 14:37:17: Creating INP File named: eval.inp
+30.05.2018 14:37:17: Creating INP File named: eval.inp SUCCEDED!
+30.05.2018 14:37:17: Starting Abaqus with inp file:eval and jobName: eval
+30.05.2018 14:38:55: Starting Abaqus with inp file:eval and jobName: eval DONE
+30.05.2018 14:38:55: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat
+30.05.2018 14:38:55: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\eval.dat DONE
+30.05.2018 14:38:55: Creating data for Trans E from csv
+30.05.2018 14:38:55: Creating data for Trans E from csv is DONE
+30.05.2018 14:38:55: Creating TRANSE dat file
+30.05.2018 14:38:55: Creating TRANSE dat file is DONE
+30.05.2018 14:38:55: Starting TRANS_E
+30.05.2018 14:38:56: TRANS_E Exited
+30.05.2018 14:38:56: ID: 54 Cooling intervals: 133::: 94::: 64::: 49::: 41Conductivity: 586,868439646654Goal Function: 6,0210056980057
+30.05.2018 14:38:56: Best solution in this iteration: 
+Cooling intervals(starting with liquid): 133 ; 94 ; 64 ; 49 ; 41 ; 819 ; Liquid K=587
+Fractions: [RetainedAustenite =0,351 ] [Martensite =0,644 ][Ferrite =0,001 ] [Pearlite =0 ] 
+30.05.2018 17:06:26: Starting Execution Chain test
+30.05.2018 17:06:26: Calculating amplitude
+30.05.2018 17:06:26: End of amplitude calculation
+30.05.2018 17:06:26: Creating INP File named: intTest.inp
+30.05.2018 17:06:27: Creating INP File named: intTest.inp SUCCEDED!
+30.05.2018 17:06:27: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat
+30.05.2018 17:06:27: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat DONE
+30.05.2018 17:06:27: Creating data for Trans E from csv
+30.05.2018 17:06:27: Creating data for Trans E from csv is DONE
+30.05.2018 17:06:27: Creating TRANSE dat file
+30.05.2018 17:06:27: Creating TRANSE dat file is DONE
+30.05.2018 17:06:27: Starting TRANS_E
+30.05.2018 17:06:27: TRANS_E Exited
+30.05.2018 17:07:19: Starting Execution Chain test
+30.05.2018 17:07:19: Calculating amplitude
+30.05.2018 17:07:19: End of amplitude calculation
+30.05.2018 17:07:19: Creating INP File named: intTest.inp
+30.05.2018 17:07:19: Creating INP File named: intTest.inp SUCCEDED!
+30.05.2018 17:07:19: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat
+30.05.2018 17:07:19: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat DONE
+30.05.2018 17:07:19: Creating data for Trans E from csv
+30.05.2018 17:07:19: Creating data for Trans E from csv is DONE
+30.05.2018 17:07:19: Creating TRANSE dat file
+30.05.2018 17:07:19: Creating TRANSE dat file is DONE
+30.05.2018 17:07:19: Starting TRANS_E
+30.05.2018 17:07:19: TRANS_E Exited
+30.05.2018 17:15:17: Starting Execution Chain test
+30.05.2018 17:15:17: Calculating amplitude
+30.05.2018 17:15:17: End of amplitude calculation
+30.05.2018 17:15:17: Creating INP File named: intTest.inp
+30.05.2018 17:15:17: Creating INP File named: intTest.inp SUCCEDED!
+30.05.2018 17:15:17: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat
+30.05.2018 17:15:17: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat DONE
+30.05.2018 17:15:18: Creating data for Trans E from csv
+30.05.2018 17:15:18: Creating data for Trans E from csv is DONE
+30.05.2018 17:15:18: Creating TRANSE dat file
+30.05.2018 17:15:18: Creating TRANSE dat file is DONE
+30.05.2018 17:15:18: Starting TRANS_E
+30.05.2018 17:15:18: TRANS_E Exited
+30.05.2018 17:20:13: Starting Execution Chain test
+30.05.2018 17:20:13: Calculating amplitude
+30.05.2018 17:20:13: End of amplitude calculation
+30.05.2018 17:20:13: Creating INP File named: intTest.inp
+30.05.2018 17:20:13: Creating INP File named: intTest.inp SUCCEDED!
+30.05.2018 17:20:13: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat
+30.05.2018 17:20:13: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat DONE
+30.05.2018 17:20:13: Creating data for Trans E from csv
+30.05.2018 17:20:13: Creating data for Trans E from csv is DONE
+30.05.2018 17:20:13: Creating TRANSE dat file
+30.05.2018 17:20:13: Creating TRANSE dat file is DONE
+30.05.2018 17:20:13: Starting TRANS_E
+30.05.2018 17:20:13: TRANS_E Exited
+30.05.2018 17:28:53: Starting Execution Chain test
+30.05.2018 17:28:53: Calculating amplitude
+30.05.2018 17:28:53: End of amplitude calculation
+30.05.2018 17:28:53: Creating INP File named: intTest.inp
+30.05.2018 17:28:53: Creating INP File named: intTest.inp SUCCEDED!
+30.05.2018 17:28:53: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat
+30.05.2018 17:28:54: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat DONE
+30.05.2018 17:28:54: Creating data for Trans E from csv
+30.05.2018 17:28:54: Creating data for Trans E from csv is DONE
+30.05.2018 17:28:54: Creating TRANSE dat file
+30.05.2018 17:28:54: Creating TRANSE dat file is DONE
+30.05.2018 17:28:54: Starting TRANS_E
+30.05.2018 17:28:54: TRANS_E Exited
+30.05.2018 17:45:04: Starting Execution Chain test
+30.05.2018 17:45:04: Calculating amplitude
+30.05.2018 17:45:04: End of amplitude calculation
+30.05.2018 17:45:04: Creating INP File named: intTest.inp
+30.05.2018 17:45:04: Creating INP File named: intTest.inp SUCCEDED!
+30.05.2018 17:45:04: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat
+30.05.2018 17:45:04: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat DONE
+30.05.2018 17:45:04: Creating data for Trans E from csv
+30.05.2018 17:45:04: Creating data for Trans E from csv is DONE
+30.05.2018 17:45:04: Creating TRANSE dat file
+30.05.2018 17:45:05: Creating TRANSE dat file is DONE
+30.05.2018 17:45:05: Starting TRANS_E
+30.05.2018 17:45:05: TRANS_E Exited
+30.05.2018 17:50:55: Starting Execution Chain test
+30.05.2018 17:50:55: Calculating amplitude
+30.05.2018 17:50:55: End of amplitude calculation
+30.05.2018 17:50:55: Creating INP File named: intTest.inp
+30.05.2018 17:50:55: Creating INP File named: intTest.inp SUCCEDED!
+30.05.2018 17:50:55: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat
+30.05.2018 17:50:55: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat DONE
+30.05.2018 17:50:55: Creating data for Trans E from csv
+30.05.2018 17:50:55: Creating data for Trans E from csv is DONE
+30.05.2018 17:50:55: Creating TRANSE dat file
+30.05.2018 17:50:55: Creating TRANSE dat file is DONE
+30.05.2018 17:50:55: Starting TRANS_E
+30.05.2018 17:50:56: TRANS_E Exited
+30.05.2018 17:52:04: Starting Execution Chain test
+30.05.2018 17:52:04: Calculating amplitude
+30.05.2018 17:52:04: End of amplitude calculation
+30.05.2018 17:52:04: Creating INP File named: intTest.inp
+30.05.2018 17:52:04: Creating INP File named: intTest.inp SUCCEDED!
+30.05.2018 17:52:04: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat
+30.05.2018 17:52:04: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat DONE
+30.05.2018 17:52:04: Creating data for Trans E from csv
+30.05.2018 17:52:04: Creating data for Trans E from csv is DONE
+30.05.2018 17:52:04: Creating TRANSE dat file
+30.05.2018 17:52:04: Creating TRANSE dat file is DONE
+30.05.2018 17:52:04: Starting TRANS_E
+30.05.2018 17:52:05: TRANS_E Exited
+30.05.2018 17:58:20: Starting Execution Chain test
+30.05.2018 17:58:20: Calculating amplitude
+30.05.2018 17:58:20: End of amplitude calculation
+30.05.2018 17:58:20: Creating INP File named: intTest.inp
+30.05.2018 17:58:20: Creating INP File named: intTest.inp SUCCEDED!
+30.05.2018 17:58:20: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat
+30.05.2018 17:58:20: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat DONE
+30.05.2018 17:58:20: Creating data for Trans E from csv
+30.05.2018 17:58:20: Creating data for Trans E from csv is DONE
+30.05.2018 17:58:20: Creating TRANSE dat file
+30.05.2018 17:58:20: Creating TRANSE dat file is DONE
+30.05.2018 17:58:20: Starting TRANS_E
+30.05.2018 17:58:21: TRANS_E Exited
+30.05.2018 18:08:55: Starting Execution Chain test
+30.05.2018 18:08:55: Calculating amplitude
+30.05.2018 18:08:55: End of amplitude calculation
+30.05.2018 18:08:55: Creating INP File named: intTest.inp
+30.05.2018 18:08:56: Creating INP File named: intTest.inp SUCCEDED!
+30.05.2018 18:08:56: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat
+30.05.2018 18:08:56: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat DONE
+30.05.2018 18:08:56: Creating data for Trans E from csv
+30.05.2018 18:08:56: Creating data for Trans E from csv is DONE
+30.05.2018 18:08:56: Creating TRANSE dat file
+30.05.2018 18:08:56: Creating TRANSE dat file is DONE
+30.05.2018 18:08:56: Starting TRANS_E
+30.05.2018 18:08:56: TRANS_E Exited
+30.05.2018 18:11:54: Starting Execution Chain test
+30.05.2018 18:11:54: Calculating amplitude
+30.05.2018 18:11:54: End of amplitude calculation
+30.05.2018 18:11:54: Creating INP File named: intTest.inp
+30.05.2018 18:11:54: Creating INP File named: intTest.inp SUCCEDED!
+30.05.2018 18:11:54: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat
+30.05.2018 18:11:54: Parsing Data from abaqus DatFile: D:\GoogleDrive\VisualStudioProjects\Project1\abaqusDir\intTest.dat DONE
+30.05.2018 18:11:54: Creating data for Trans E from csv
+30.05.2018 18:11:54: Creating data for Trans E from csv is DONE
+30.05.2018 18:11:54: Creating TRANSE dat file
+30.05.2018 18:11:54: Creating TRANSE dat file is DONE
+30.05.2018 18:11:54: Starting TRANS_E
+30.05.2018 18:11:55: TRANS_E Exited

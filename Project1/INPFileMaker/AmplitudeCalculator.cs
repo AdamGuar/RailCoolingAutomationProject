@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization.INPFileMaker
 {
-    class AmplitudeCalculator
+    public class AmplitudeCalculator
     {
         //private static double INDICATOR_COOLER = 800;
         private static double INDICATOR_AIR = 10;

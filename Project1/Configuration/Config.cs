@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization.Configuration
 {
-    class Config
+    public class Config
     {
 
         private string transEDirectory;

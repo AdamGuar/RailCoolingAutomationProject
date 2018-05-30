@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization.CoolingRateCalculator
 {
-    class Value
+    public class Value
     {
         private double Time;
         private double Temp;
@@ -21,6 +21,17 @@ namespace Optimalization.CoolingRateCalculator
         {
             get { return Temp; }
             set { Temp = value; }
+        }
+
+        public Value()
+        {
+
+        }
+
+        public Value(double time, double temp)
+        {
+            Time = time;
+            Temp = temp;
         }
 
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization.CoolingRateCalculator
 {
-    class OutPutTypeField
+    public class OutPutTypeField
     {
         string Interval;
         string CoolingRate;

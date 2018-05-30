@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization.FileUtils
 {
-    class GeneralUtils
+    public class GeneralUtils
     {
    
         public static string readFile(string fileName)

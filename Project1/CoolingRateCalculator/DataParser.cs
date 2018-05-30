@@ -6,11 +6,18 @@ using System.Threading.Tasks;
 
 namespace Optimalization.CoolingRateCalculator
 {
-    class DataParser
+    public class DataParser
     {
+
+        bool _SilentMode = false;
+
+        public bool SilentMode{
+            set { _SilentMode = value; }
+        }
+
         public string createDataForTransE(string CSV)
         {
-            Logger.Logger.logLine("Creating data for Trans E from csv", true);
+            if(!_SilentMode) Logger.Logger.logLine("Creating data for Trans E from csv", true);
             List<Value> valuesList = new List<Value>();
             Spliter.pupulateValuesList(valuesList, CSV);
             List<OutPutTypeField> intervals = CoolingRateCalculator.CalculateRates(valuesList);
@@ -22,7 +29,7 @@ namespace Optimalization.CoolingRateCalculator
 
                 output = output + interval.IntervalProperty + " " + interval.CoolingRateProperty + "\n";
             }
-            Logger.Logger.logLine("Creating data for Trans E from csv is DONE", true);
+            if (!_SilentMode) Logger.Logger.logLine("Creating data for Trans E from csv is DONE", true);
             return output;
         }
 

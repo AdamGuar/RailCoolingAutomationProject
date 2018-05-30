@@ -4,9 +4,9 @@ using System.Globalization;
 
 namespace Optimalization.CoolingRateCalculator
 {
-    internal class Spliter
+    public class Spliter
     {
-        internal static void pupulateValuesList(List<Value> valuesList, string CSV)
+        public static void pupulateValuesList(List<Value> valuesList, string CSV)
         {
 
             string[] lines = CSV.Split(new[] { '\r', '\n' });

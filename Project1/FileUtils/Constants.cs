@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization.FileUtils
 {
-    class Constants
+    public class Constants
     {
 
       public static string TRANS_DAT_HEADER = "0 - one case only; i - calculated i cooling rates\n.False. .True.exponential 1200. 50.\n1       model(S369)\n1000000    number of time steps\n820.  initial temperature\n.01	   time step\n1      iprint\n.False. .True. (without heating).True. (with heating)    \n1                            	number of cycles\n";

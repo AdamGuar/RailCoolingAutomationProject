@@ -10,7 +10,7 @@ using Optimalization.Configuration;
 
 namespace Optimalization.Plots
 {
-    class PlotCreator
+    public class PlotCreator
     {
 
         List<double> xvals;

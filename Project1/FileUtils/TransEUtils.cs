@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization
 {
-    enum Fraction
+    public enum Fraction
     {
         austenite,
         pearlite,
@@ -17,9 +17,9 @@ namespace Optimalization
         ferrite,
     }
 
-    class TransEUtils
+    public class TransEUtils
     {
-        //TODO: move this method to genral fileUtils
+
         public static string readFile(string fileName)
         {
             try
@@ -38,8 +38,6 @@ namespace Optimalization
                 return null;
             }
         }
-
-
 
         public static string findFraction(Fraction fraction,string fileName)
         {
@@ -74,7 +72,6 @@ namespace Optimalization
             return fractionString;
         }
 
-
         public static double findFractionDouble(Fraction fraction,string fileName)
         {
             double result = 0;
@@ -88,7 +85,6 @@ namespace Optimalization
 
             return result;
         }
-
 
         private static double FractionToDouble(string fraction)
         {

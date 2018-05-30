@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization
 {
-    class AbaqusUtils
+    public class AbaqusUtils
     {
         private static string readFile(string fileName)
         {
@@ -62,8 +62,6 @@ namespace Optimalization
 
             return result;
         }
-
-       
 
         public static string parseDataFromAbaqToCSV(string fileName)
         {

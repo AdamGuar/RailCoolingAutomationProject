@@ -1,0 +1,19 @@
+0 - one case only; i - calculated i cooling rates
+.False. .True. exponential 1200. 50.  DP600 - 1398 grant PWroc
+4   model	(1 - current, 2 - new, 3 - SUEHIRO)
+1000000    number of time steps
+820.  initial temperature
+.1	   time interval
+1      iprint (1 – painting, 0 – no painting)
+.False. (with heating) .False. (without heating)    
+1            number of cycles
+7      number of cooling rate intervals
+31.   7.85    time, cooling rate
+14.   -2.34   time, cooling rate
+9.   6.89    time, cooling rate
+31.	-1.09
+7.	7.34
+40.	-0.6
+268.	0.21
+===================================^^^^^^ Perlityczna stal szynowa 900A
+

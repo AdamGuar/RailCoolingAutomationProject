@@ -7,16 +7,16 @@ using System.Threading.Tasks;
 
 namespace Optimalization.Configuration
 {
-    class ConfigLoader
+    public class ConfigLoader
     {
 
-        public Config loadConfiguration()
+        public Config loadConfiguration(String configPath)
         {
             String config = null;
 
             try
             {   // Open the text file using a stream reader.
-                using (StreamReader sr = new StreamReader("config.txt"))
+                using (StreamReader sr = new StreamReader(configPath))
                 {
                     // Read the stream to a string, and write the string to the console.
                     config = sr.ReadToEnd();
@@ -24,9 +24,10 @@ namespace Optimalization.Configuration
                 }
             }
             catch (Exception e)
-            {
+            {   
                 Console.WriteLine("Configuration file cant be readed:");
                 Console.WriteLine(e.Message);
+                throw new SystemException("Configuration file cant be readed", e);
             }
 
 

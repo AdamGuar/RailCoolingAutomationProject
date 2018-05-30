@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization.Configuration
 {
-    class ConfigurationStorage
+    public class ConfigurationStorage
     {
 
         public static Config CONFIGURATION;

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization
 {
-    class ConsoleUtils
+    public class ConsoleUtils
     {
 
 

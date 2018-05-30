@@ -1,0 +1,32 @@
+0 - one case only; i - calculated i cooling rates
+.False. .True. exponential 1200. 50.
+1       model	(S369)
+1000000    number of time steps
+830.  initial temperature
+.01	   time step
+1      iprint
+.False. .True. (without heating).True. (with heating)    
+1                            	number of cycles 
+3        liczba przedzialow chlodzenia
+500 .888    czas, predkosc chlodzenia
+200. 0.095    czas, predkosc chlodzenia
+2000. .26    czas, predkosc chlodzenia
+^^^^^^^^^^^^^ Stal bainityczna S369
+===========================================================================
+
+
+0 - one case only; i - calculated i cooling rates
+.False. .True. exponential 1200. 50.  DP600 - 1398 grant PWroc
+4   model	(1 - current, 2 - new, 3 - SUEHIRO)
+1000000    number of time steps
+735.  initial temperature
+.1	   time interval
+1      iprint (1 – painting, 0 – no painting)
+.False. (with heating) .False. (without heating)    
+1            number of cycles
+3      number of cooling rate intervals
+22.   8.5    time, cooling rate
+20.   1.    time, cooling rate
+230.   10.    time, cooling rate
+===================================^^^^^^ Perlityczna stal szynowa 900A
+

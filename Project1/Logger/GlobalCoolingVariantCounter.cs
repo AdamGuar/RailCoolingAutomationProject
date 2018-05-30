@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization.Logger
 {
-    class GlobalCoolingVariantCounter
+    public class GlobalCoolingVariantCounter
     {
         int counter;
         public int Counter

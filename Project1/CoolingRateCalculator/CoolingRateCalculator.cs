@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Optimalization.CoolingRateCalculator
 {
-    class CoolingRateCalculator
+    public class CoolingRateCalculator
     {
-        internal static List<OutPutTypeField> CalculateRates(List<Value> valuesList)
+        public static List<OutPutTypeField> CalculateRates(List<Value> valuesList)
         {
             List<OutPutTypeField> intervals = new List<OutPutTypeField>();
 

@@ -1,0 +1,13 @@
+   transformed fraction             0.701
+   volume fraction of ferrite                0.035
+   volume fraction of pearlite               0.000
+   volume fraction of bainite                0.120
+   volume fraction of martensite             0.544
+   including tempered martensite             0.546
+ volume fraction of retained austenite       0.301
+ volume fraction of cementite                0.000
+ fraction of ferrite          0.064
+ fraction of pearlite         0.000
+ Widmanstatten ferrite       -0.007
+ fraction of bainite          0.125
+ fraction of martensite       0.646

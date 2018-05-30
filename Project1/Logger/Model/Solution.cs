@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization.Logger.Model
 {
-    class Solution
+    public class Solution
     {
         double[] intervals;
         double conduct;

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization
 {
-    class AbaqusProgramRunner
+    public class AbaqusProgramRunner
     {
         public static void RunAbaqus(string inpFileName,string jobName)
         {

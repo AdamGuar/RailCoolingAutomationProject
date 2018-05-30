@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization.INPFileMaker
 {
-    class FileCreator
+    public class FileCreator
     {
 
         string AmplitudeString;

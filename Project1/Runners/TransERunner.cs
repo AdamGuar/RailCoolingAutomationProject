@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization.Runners
 {
-    class TransERunner
+    public class TransERunner
     {
        public static void Run(string transEFilePath)
         {

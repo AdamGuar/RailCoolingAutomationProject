@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace Optimalization
 {
-    class GoalFunctionCalculator
+    public class GoalFunctionCalculator
     {
 
 
